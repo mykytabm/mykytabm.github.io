@@ -1,8 +1,7 @@
-baseURL: "http://nikitabm.github.io/"
+baseURL: "https://mykytabm.github.io/"
 title: Blog
 paginate: 5
 theme: PaperMod
-publishDir: "docs"
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -81,7 +80,7 @@ params:
 
   socialIcons:
     - name: github
-      url: "https://github.com/nikitabm"
+      url: "https://github.com/mykytabm"
 
   analytics:
     google:
@@ -95,11 +94,6 @@ params:
     hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
-
-  editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html

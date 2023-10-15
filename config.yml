@@ -1,5 +1,5 @@
 baseURL: "https://mykytabm.github.io/"
-title: Blog
+title: Mykytabm`s blog
 paginate: 5
 theme: PaperMod
 
@@ -17,7 +17,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Mykytabm's blog and stuff
-  description: "I am a big fan of chess, competitive computer games, stylish movies, fantasy books, and great music. I think it is important to have interests outside your main field of expertise, though I am reading about IT, new technologies, techniques, or just thoughts on software development every day (haha) and for me, it’s as much fun as my other interests."
+  description: "blog"
   keywords: [Blog, Portfolio, Observability]
   author: Mykyta
   # author: ["Me", "You"] # multiple authors
@@ -75,8 +75,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Mykytabm"
-    Content: Blog & stuff
+    Title: "Mykytabm's blog and stuff"
+    Content: "I am a big fan of chess, competitive computer games, stylish movies, fantasy books, and great music. I think it is important to have interests outside your main field of expertise, though I am reading about IT, new technologies, techniques, or just thoughts on software development every day (haha) and for me, it’s as much fun as my other interests."
 
   socialIcons:
     - name: github

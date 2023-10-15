@@ -16,15 +16,15 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Mykytabm
-  description: "My blog & stuff"
+  title: Mykytabm's blog and stuff
+  description: "I am a big fan of chess, competitive computer games, stylish movies, fantasy books, and great music. I think it is important to have interests outside your main field of expertise, though I am reading about IT, new technologies, techniques, or just thoughts on software development every day (haha) and for me, it’s as much fun as my other interests."
   keywords: [Blog, Portfolio, Observability]
-  author: Mykytabm
+  author: Mykyta
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
-  disableThemeToggle: true
+  disableThemeToggle: false
 
   ShowReadingTime: true
   ShowShareButtons: false

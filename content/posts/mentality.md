@@ -1,7 +1,7 @@
 ---
 title: "Mentality"
 date: 2023-10-18T19:27:23+02:00
-draft: true
+draft: false
 ---
 
 ### Mentality

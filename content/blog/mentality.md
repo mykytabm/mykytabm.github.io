@@ -5,7 +5,7 @@ draft: false
 ---
 
 ### Mentality
-I just ate one beer, lost 2 games of Dota 2 and tomorrow the cat that was living with us will be taken back to his original owners. So I thought its exactly the time to write something about the importance of good mentality and key things I think crucial about this stuff that is called life and how we walk through it (spoiler, we should walk with the head held up high).
+I just lost 2 games of Dota 2 and tomorrow the cat that was living with us will be taken back to his original owners. So I thought its exactly the time to write something about the importance of good mentality and key things I think crucial about this stuff that is called life and how we walk through it (spoiler, we should walk with the head held up high).
 
 ### Mentality means the way of thinking. 
 Right now I'm 25 years old. I tried a lot of things, work related, life related, health related. I failed at a lot of things that I tried, actually at most of things. Things that I didn't fail at - I failed enough to learn stuff. Point is - A lot of losses, a lot of failures. Does it matter? Certainly not, at least when it comes down to my mentality. Because that's just how life is. In a way I am really trying to keep positive mentality no matter what, because at the end of the day (more accurate will be to say at the end of life) those little stresses here and there, and other things add up, and as the years go by your nerve system just suffers the consequences. In a way I am really trying to be sort of hip type of guy who learnt about stoicism but was too bored to read it through. I only know few points, but actually not from stoicism, it was just how I developed my own philosophy while growing up. 
